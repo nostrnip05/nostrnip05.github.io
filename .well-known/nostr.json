@@ -3,6 +3,6 @@
     "aaa": "36e8d5095a5b9a6c828efab190c7724122e11576ad1f60ab84203eccbf0c6a1e"
   },
   "relays": {
-    ""36e8d5095a5b9a6c828efab190c7724122e11576ad1f60ab84203eccbf0c6a1e: [ "wss://r.ayit.org", "wss://b.ayit.org" ]
+    "36e8d5095a5b9a6c828efab190c7724122e11576ad1f60ab84203eccbf0c6a1e": [ "wss://r.ayit.org", "wss://b.ayit.org" ]
   }
 }
